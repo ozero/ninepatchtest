@@ -6,7 +6,7 @@
     <application android:icon="@drawable/icon" android:label="@string/app_name">
         <activity android:name=".NinepatchtestActivity"
                   android:label="@string/app_name"
-                  android:theme="@android:style/Theme.Light"
+                  android:theme="@android:style/Theme.Black"
                   >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -16,6 +16,5 @@
 
     </application>
     <uses-sdk android:minSdkVersion="4" />
-
 
 </manifest> 

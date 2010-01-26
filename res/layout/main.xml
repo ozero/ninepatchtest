@@ -16,7 +16,6 @@
 
 
 
-
 <TextView  
     android:layout_width="fill_parent" 
     android:layout_height="wrap_content" 
@@ -252,7 +251,6 @@
     android:background="@drawable/x_f0f0f0_2foot"
     android:layout_marginBottom="2dp"
     />
-
 
 
 
